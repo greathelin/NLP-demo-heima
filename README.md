@@ -2,15 +2,19 @@
 课程地址：https://www.bilibili.com/video/BV1Wp4y1a72e?p=98
 
 
+# 语料库下载
+## 百度网盘下载
+链接：https://pan.baidu.com/s/1QJQrfJCUCcyBbc1aApH28w 
+提取码：mk5m
 
-语料下载链接：https://pan.baidu.com/s/1D-I2dp9zz1aYBzZ1DL7jZA 
-提取码：WAHL 
+## CSDN下载
+链接：https://download.csdn.net/download/Lyndon0_0/20096655
+
+**如果无法下载语料，给我发消息，我私发给你**
+
 
 根据课程内容手敲的，如果有侵权，请联系我删除。
 
 
 
-吐槽百度网盘：
-本准备重新分享语料的下载链接，提示**该文件禁止分享**。
-那我下载下来通过其他渠道分享总可以吧，结果提示**您下载的内容中包含违规信息**，无语。
-百度网盘，现在真是越来越能恶心人了。
+
