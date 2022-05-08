@@ -10,8 +10,8 @@
 # 语料库下载
 
 ## 百度网盘下载
-链接：https://pan.baidu.com/s/1QJQrfJCUCcyBbc1aApH28w 
-提取码：mk5m
+链接: https://pan.baidu.com/s/1ngBd_5TcY_LIdcJgLtF4mw
+提取码: 2r8a 
 
 <br/>
 
