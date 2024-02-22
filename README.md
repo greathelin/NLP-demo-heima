@@ -9,12 +9,6 @@
 
 # 语料库下载
 
-## 百度网盘下载
-链接: https://pan.baidu.com/s/1ngBd_5TcY_LIdcJgLtF4mw
-提取码: 2r8a 
-
-<br/>
-
 ## CSDN下载
 链接：https://download.csdn.net/download/Lyndon0_0/20096655
 
